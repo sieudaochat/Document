@@ -1,0 +1,25 @@
+1. Mục tiêu:
+	Xây dựng một website nghe nhạc hoàn chỉnh
+	Có giá trị thực tiễn cao
+	Có thể đưa vào hoạt động
+	Thời gian hoàn thành: 10 working days
+2. Mô tả
+	Các chức năng chính:
+		- Với khách vãng lai:
+			+ Nghe nhạc trên website
+			+ Tạo account
+			+ Tìm kiếm bài hát theo tên bài, nhạc sĩ ....
+			+ Đăng nhập bằng facebook
+			+ Xem bảng xếp hạng dựa trên lượt nghe
+		- Với người dùng đã có account
+			+ Sửa profile (Thông tin cá nhân, avatar....)
+			+ Viết bài
+			+ Follow/Unfollow người dùng khác
+			+ Tải nhạc lên
+			+ Xóa bài hát của mình
+			+ Comment qua facebook
+			+ Like bài hát
+		- Với admin
+			+ Xóa tài khoản của người dùng không phải admin
+			+ Xóa bài hát của người dùng
+

@@ -1,0 +1,13 @@
+1. Planning:
+  - Lên kế hoạch về thời gian hoàn thành project (Khi nào demo - hạn chót là 15/6/2017)
+  - Lên kế hoạch cho công việc sẽ làm trong từng tuần (chia công việc cần làm theo tuần để dễ control)
+  - Lên kế hoạch demo hàng tuần (chốt thời gian demo vs trainer phụ trách)
+
+1. Thời gian hoàn thành project
+- Ngày 09/06/2017
+2. Kế hoạch cụ thể
+ - Tuần 1(Từ 15-19/05): Hoàn thiện Documents
+ - Tuần 2(Từ 22-26/05): Init Project, init Framgia-ci, Static-page, init Model, Signup, Login, logout, changeProfile, userManagement
+ - Tuần 3(Từ 29/05 - 02/06): Uploading, searching, playing, createAlbum
+ - Tuần 4(Từ 05-09/06): liking, following, notifacation, Finishing
+3. Demo mỗi khi xong 1 chức năng hoặc cuối tuần demo các chức năng hoàn thiện trong tuần.
